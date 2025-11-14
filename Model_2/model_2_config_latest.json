@@ -1,0 +1,6 @@
+{
+  "backbone": "efficientnet_b0",
+  "img_size": 224,
+  "num_classes": 1,
+  "notes": "Trained DeepForensicNet model"
+}
